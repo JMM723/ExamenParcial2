@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 4.3)
+project(ExamenParcial2)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(ExamenParcial2 main.cpp)
+add_executable(cicloforexamen cicloforexamen.cpp)
+add_executable(operadorlogisticoexamen operadorlogisticoexamen.cpp)
+add_executable(operadorlogisticovoidexamen operadorlogisticovoidexamen.cpp)
+add_executable(operadorlogisticoifexamen operadorlogisticoifexamen.cpp)
+add_executable(tiposdedatosexamen tiposdedatosexamen.cpp)
+add_executable(calculadoritaexamen calculadoritaexamen.cpp)
+add_executable(listasconvectoresxddd listasconvectoresxddd.cpp)
+add_executable(Tuplas Tuplas.cpp)
+add_executable(Diccionarios Diccionarios.cpp)
